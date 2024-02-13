@@ -84,7 +84,6 @@ Talks
   
 Grants and awards
 ======
-* Currently signed in to 43 different slack teams
 * 06/2023 2023 IEEE NSS MIC RTSD Trainee Grant,
   * IEEE NPSS (Nuclear & Plasma Sciences Society).
 * 12/2019 DAAD Scholarship for an exchange semester at Frankfurt University of Applied Sciences, 
